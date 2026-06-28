@@ -1,0 +1,2 @@
+C:\WINDOWS\system32\n2Blocker\dist\n2Blocker.pdb
+C:\WINDOWS\system32\n2Blocker\dist\n2Blocker.exe
